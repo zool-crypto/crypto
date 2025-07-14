@@ -1,7 +1,7 @@
 {
     "name": " ZOOLCRYPTO",
     "short_name": "ZOOLCRYPTO",
-    "start_url": "/fast",
+    "start_url": "/crypto",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
