@@ -123,7 +123,7 @@ const products = [
     },
     {
         name: "USDT",
-        price: 2850,
+        price: 3010,
         description: "شراء usdt حدد الكمية",
         image: "img/images (1).jpg",
         action: "buy",
@@ -131,7 +131,7 @@ const products = [
     },
     {
         name: "USDT",
-        price: 2600,
+        price: 2750,
         description: "بيع usdt حدد الكمية",
         image: "img/images (1).jpg",
         action: "sell",
